@@ -1,7 +1,7 @@
 //
 //  ContentView.swift
 //  LoadingIndicatorSwiftUI
-//
+//  Hello
 //  Created by Muhammet Emin Ayhan on 17.10.2024.
 //
 
